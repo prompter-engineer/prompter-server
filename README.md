@@ -7,7 +7,7 @@ Prompter is an open-sourced application built with Node.js and Express, which is
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
 ### Prerequisites
-What things you need to install the software and how to install them:
+You need to setup below prerequisites in advance to run this project:
 - Node.js
 - npm/yarn (package manager)
 - MongoDB (database)
